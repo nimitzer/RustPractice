@@ -1,0 +1,6 @@
+
+(:key1 49.0d:key2 5.45e-2:key3 "Data":)
+(:key1 50.0d:key2 5.45e-18:key3 "Data":)
+(:key1 50.0d:key2 5.45e-1:key3 "Data":)
+(:key1 50.0d:key2 5.45e-2:key3 "DataEpta":)
+(:key1 50.0d:key2 5.45e-2:key3 "DataNE":)
